@@ -13,5 +13,5 @@ Copy files to Your Proteus library folder, e.g.
 # Description
 | Library | README |
 | ------ | ------ |
-| CUSTOMLIB | Library contains ARDUINO SMD ICSP connector model |
+| CUSTOM_CONNECTORS | Library contains ARDUINO SMD ICSP connector model |
 
