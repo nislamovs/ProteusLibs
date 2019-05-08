@@ -5,5 +5,6 @@ export PROTEUS_LIB_PATH=~/".wine/drive_c/Program Files/Labcenter Electronics/Pro
 
 #nautilus "$PROTEUS_LIB_PATH"
 /bin/cp -rf "$PROTEUS_LIB_PATH"/CUSTOM_CONNECTORS.* "$LIB_DIR_PATH"
+/bin/cp -rf "$PROTEUS_LIB_PATH"/CUSTOM_LAYOUTS.* "$LIB_DIR_PATH"
 
-ls -la "$LIB_DIR_PATH" | grep "CUSTOM_CONNECTORS"
+ls -la "$LIB_DIR_PATH" | grep "CUSTOM_"
